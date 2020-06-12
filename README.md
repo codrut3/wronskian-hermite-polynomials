@@ -15,3 +15,5 @@ paper. Rerun the code to verify the validity of the claims in the article.
    * Note that running a script can take more than a day.
    * The comments at the top of the file describe the search space of the code.
 
+DISCLAIMER: This is not an officially supported Google product.
+
