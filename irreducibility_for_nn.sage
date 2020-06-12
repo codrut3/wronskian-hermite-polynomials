@@ -18,7 +18,6 @@
 # partitions (n, n) where n <= 1000 or n is one of {2401, 4375}.
 
 from sage.symbolic.expression_conversions import polynomial
-from sage.arith.misc import binomial
 
 def hermite_poly(n, x):
   H = hermite(n, x)
